@@ -1,4 +1,4 @@
-Number-Based Programming Solutions in C
+#Number-Based Programming Solutions in C
 
 This repository includes a collection of C programs solving various number-based problems. Each program checks if a given number satisfies specific properties, showcasing different mathematical and logical concepts. Below are the programs included and their respective logic with examples.
 
